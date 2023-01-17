@@ -2,7 +2,7 @@ body
 {
     color: black;
     text-align: center;
-    font-family: "Arial", monospace;
+    font-family: "Calibri", monospace;
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -10,7 +10,7 @@ body
 
 #cabecera
 {
-    background: #33A;
+    background: rgb(148, 201, 3);
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
@@ -25,7 +25,7 @@ body
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid rgb(169, 30, 169);
     margin: 0 auto;
 }
 
